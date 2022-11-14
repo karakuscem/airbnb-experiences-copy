@@ -1,5 +1,7 @@
 import React from "react"
 import grid from "../assets/photo-grid.png"
+import '../styles/styles.css';
+
 export default function Hero() {
     return (
         <section className="hero">
